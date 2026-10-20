@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">రైలు బుకింగ్ రిమైండర్</string>
+    <string name="app_title">IRCTC బుకింగ్ రిమైండర్</string>
+    <string name="app_subtitle">జనరల్ ARP (60 రోజులు) &amp; తత్కాల్ క్యాలిక్యులేటర్</string>
+
+    <string name="app_language">యాప్ భాష</string>
+    <string name="app_theme">యాప్ థీమ్</string>
+    <string name="theme_system">సిస్టమ్</string>
+    <string name="theme_light">లైట్</string>
+    <string name="theme_dark">డార్క్</string>
+    <string name="select_preferred_language">మీకు కావలసిన భాషను ఎంచుకోండి</string>
+
+    <string name="intended_journey_date">ప్రయాణ తేదీ</string>
+    <string name="change_date">మార్చు</string>
+    <string name="quick_select_label">త్వరిత ప్రయాణ తేదీ ఎంపిక:</string>
+    <string name="quick_tomorrow">రేపు</string>
+    <string name="quick_7_days">+7 రోజులు</string>
+    <string name="quick_30_days">+30 రోజులు</string>
+    <string name="quick_60_days">+60 రోజులు</string>
+    <string name="select_date_action">తేదీ ఎంచుకోండి</string>
+    <string name="cancel_action">రద్దు చేయండి</string>
+
+    <string name="booking_windows_header">బుకింగ్ ప్రారంభ సమయాలు &amp; రిమైండర్‌లు</string>
+    <string name="booking_opens_at">బుకింగ్ ప్రారంభమయ్యే సమయం</string>
+
+    <string name="quota_general_title">జనరల్ కోటా (60 రోజుల ARP)</string>
+    <string name="quota_general_subtitle">అడ్వాన్స్ రిజర్వేషన్ పీరియడ్ (1AC, 2AC, 3AC, SL, CC మొదలైనవి)</string>
+    <string name="quota_ac_tatkal_title">AC తత్కాల్ కోటా</string>
+    <string name="quota_ac_tatkal_subtitle">ప్రీమియం/AC తరగతులు (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">నాన్-AC / స్లీపర్ తత్కాల్ కోటా</string>
+    <string name="quota_sl_tatkal_subtitle">స్లీపర్ క్లాస్ (SL) &amp; సెకండ్ సిట్టింగ్ (2S)</string>
+
+    <string name="reminder_set_15m">రిమైండర్ సెట్ చేయబడింది (-15 నిమిషాలు)</string>
+    <string name="alert_15m_before">15 నిమిషాల ముందు హెచ్చరిక</string>
+    <string name="add_to_calendar_btn">క్యాలెండర్‌కు బుకింగ్ జోడించండి</string>
+    <string name="calendar_short">క్యాలెండర్</string>
+
+    <string name="status_window_passed">బుకింగ్ సమయం ముగిసింది</string>
+    <string name="status_opening_now">ఇప్పుడే ప్రారంభమవుతోంది!</string>
+    <string name="status_opens_in_days">%1$d రోజుల్లో ప్రారంభమవుతుంది</string>
+    <string name="status_opens_in_day">%1$d రోజులో ప్రారంభమవుతుంది</string>
+    <string name="status_opens_in_hrs_mins">%1$d గంటల %2$d నిమిషాల్లో ప్రారంభమవుతుంది</string>
+    <string name="status_opens_in_mins">%1$d నిమిషాల్లో ప్రారంభమవుతుంది</string>
+
+    <string name="irctc_rules_tips_title">అధికారిక IRCTC బుకింగ్ నిబంధనలు &amp; చిట్కాలు</string>
+    <string name="irctc_tip_1">• జనరల్ కోటా ARP: ప్రయాణానికి సరిగ్గా 60 రోజుల ముందు ఉదయం 8:00 IST కు ప్రారంభమవుతుంది.</string>
+    <string name="irctc_tip_2">• AC తత్కాల్ కోటా: ప్రయాణ తేదీకి 1 రోజు ముందు ఉదయం 10:00 IST కు ప్రారంభమవుతుంది.</string>
+    <string name="irctc_tip_3">• స్లీపర్ (SL) తత్కాల్ కోటా: ప్రయాణ తేదీకి 1 రోజు ముందు ఉదయం 11:00 IST కు ప్రారంభమవుతుంది.</string>
+    <string name="irctc_tip_4">• చిట్కా: IRCTC యాప్‌లో 5 నిమిషాల ముందు లాగిన్ అవ్వండి మరియు వేగవంతమైన చెల్లింపు కోసం UPI ఉపయోగించండి.</string>
+
+    <string name="exact_alarm_title">ఖచ్చితమైన అలారం అనుమతి అవసరం</string>
+    <string name="exact_alarm_desc">సరిగ్గా 15 నిమిషాల ముందు రిమైండర్ కోసం సెట్టింగ్స్‌లో అలారం అనుమతి ఇవ్వండి.</string>
+    <string name="open_settings_action">సెట్టింగ్‌లు తెరవండి</string>
+
+    <string name="reminder_cancelled">%1$s కొరకు రిమైండర్ రద్దు చేయబడింది</string>
+    <string name="exact_alarm_needed_msg">ఖచ్చితమైన రిమైండర్ల కోసం అలారం అనుమతి అవసరం.</string>
+</resources>

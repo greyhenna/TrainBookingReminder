@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ரயில் புக்கிங் நினைவூட்டல்</string>
+    <string name="app_title">IRCTC புக்கிங் நினைவூட்டல்</string>
+    <string name="app_subtitle">ஜெனரல் ARP (60 நாட்கள்) &amp; தட்கல் கணிப்பான்</string>
+
+    <string name="app_language">செயலி மொழி</string>
+    <string name="app_theme">செயலி தீம்</string>
+    <string name="theme_system">சிஸ்டம்</string>
+    <string name="theme_light">லைட்</string>
+    <string name="theme_dark">டார்க்</string>
+    <string name="select_preferred_language">உங்களுக்கு விருப்பமான மொழியைத் தேர்ந்தெடுக்கவும்</string>
+
+    <string name="intended_journey_date">பயண தேதி</string>
+    <string name="change_date">மாற்று</string>
+    <string name="quick_select_label">விரைவு பயண தேதி தேர்வு:</string>
+    <string name="quick_tomorrow">நாளை</string>
+    <string name="quick_7_days">+7 நாட்கள்</string>
+    <string name="quick_30_days">+30 நாட்கள்</string>
+    <string name="quick_60_days">+60 நாட்கள்</string>
+    <string name="select_date_action">தேதியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="cancel_action">ரத்து செய்</string>
+
+    <string name="booking_windows_header">புக்கிங் தொடங்கும் நேரங்கள் &amp; நினைவூட்டல்கள்</string>
+    <string name="booking_opens_at">புக்கிங் தொடங்கும் நேரம்</string>
+
+    <string name="quota_general_title">ஜெனரல் கோட்டா (60 நாட்கள் ARP)</string>
+    <string name="quota_general_subtitle">முன்பதிவு காலம் (1AC, 2AC, 3AC, SL, CC போன்றவை)</string>
+    <string name="quota_ac_tatkal_title">ஏசி தட்கல் கோட்டா</string>
+    <string name="quota_ac_tatkal_subtitle">பிரீமியம்/ஏசி வகுப்புகள் (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">நான்-ஏசி / ஸ்லீப்பர் தட்கல் கோட்டா</string>
+    <string name="quota_sl_tatkal_subtitle">ஸ்லீப்பர் கிளாஸ் (SL) &amp; செகண்ட் சீட்டிங் (2S)</string>
+
+    <string name="reminder_set_15m">நினைவூட்டல் அமைக்கப்பட்டது (-15 நிமிடங்கள்)</string>
+    <string name="alert_15m_before">15 நிமிடங்களுக்கு முன் எச்சரிக்கை</string>
+    <string name="add_to_calendar_btn">கேலண்டரில் புக்கிங்கை சேர்க்கவும்</string>
+    <string name="calendar_short">கேலண்டர்</string>
+
+    <string name="status_window_passed">புக்கிங் நேரம் முடிந்தது</string>
+    <string name="status_opening_now">இப்போது தொடங்குகிறது!</string>
+    <string name="status_opens_in_days">%1$d நாட்களில் தொடங்கும்</string>
+    <string name="status_opens_in_day">%1$d நாளில் தொடங்கும்</string>
+    <string name="status_opens_in_hrs_mins">%1$d மணி %2$d நிமிடங்களில் தொடங்கும்</string>
+    <string name="status_opens_in_mins">%1$d நிமிடங்களில் தொடங்கும்</string>
+
+    <string name="irctc_rules_tips_title">அதிகாரப்பூர்வ IRCTC விதிகள் &amp; குறிப்புகள்</string>
+    <string name="irctc_tip_1">• ஜெனரல் கோட்டா ARP: பயணத்திற்கு 60 நாட்களுக்கு முன் காலை 8:00 IST மணிக்குத் தொடங்கும்.</string>
+    <string name="irctc_tip_2">• ஏசி தட்கல் கோட்டா: பயணத்திற்கு 1 நாள் முன் காலை 10:00 IST மணிக்குத் தொடங்கும்.</string>
+    <string name="irctc_tip_3">• ஸ்லீப்பர் (SL) தட்கல் கோட்டா: பயணத்திற்கு 1 நாள் முன் காலை 11:00 IST மணிக்குத் தொடங்கும்.</string>
+    <string name="irctc_tip_4">• குறிப்பு: IRCTC செயலியில் 5 நிமிடங்களுக்கு முன் லாக் இன் செய்து UPI மூலம் உடனடியாக கட்டணம் செலுத்துங்கள்.</string>
+
+    <string name="exact_alarm_title">துல்லியமான அலாரம் அனுமதி தேவை</string>
+    <string name="exact_alarm_desc">சரியாக 15 நிமிடங்களுக்கு முன் நினைவூட்டல் பெற அலாரம் அனுமதியை வழங்கவும்.</string>
+    <string name="open_settings_action">செட்டிங்ஸ் திற</string>
+
+    <string name="reminder_cancelled">%1$s க்கான நினைவூட்டல் ரத்து செய்யப்பட்டது</string>
+    <string name="exact_alarm_needed_msg">துல்லியமான நினைவூட்டல்களுக்கு அலாரம் அனுமதி தேவை.</string>
+</resources>

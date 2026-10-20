@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Train Booking Reminder</string>
+    <string name="app_title">IRCTC Booking Reminder</string>
+    <string name="app_subtitle">General ARP (60 Days) &amp; Tatkal Calculator</string>
+
+    <string name="app_language">App Language</string>
+    <string name="app_theme">App Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="select_preferred_language">Select Preferred Language / भाषा चुनें</string>
+
+    <string name="intended_journey_date">Intended Journey Date</string>
+    <string name="change_date">Change</string>
+    <string name="quick_select_label">Quick Select Future Travel Date:</string>
+    <string name="quick_tomorrow">Tomorrow</string>
+    <string name="quick_7_days">+7 Days</string>
+    <string name="quick_30_days">+30 Days</string>
+    <string name="quick_60_days">+60 Days</string>
+    <string name="select_date_action">Select Date</string>
+    <string name="cancel_action">Cancel</string>
+
+    <string name="booking_windows_header">Booking Opening Windows &amp; Reminders</string>
+    <string name="booking_opens_at">BOOKING OPENS AT</string>
+
+    <string name="quota_general_title">General Quota (60 Days ARP)</string>
+    <string name="quota_general_subtitle">Advance Reservation Period (1AC, 2AC, 3AC, SL, CC, etc.)</string>
+    <string name="quota_ac_tatkal_title">AC Tatkal Quota</string>
+    <string name="quota_ac_tatkal_subtitle">Premium/AC Classes (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">Non-AC / Sleeper Tatkal Quota</string>
+    <string name="quota_sl_tatkal_subtitle">Sleeper Class (SL) &amp; Second Sitting (2S)</string>
+
+    <string name="reminder_set_15m">Reminder Set (-15m)</string>
+    <string name="alert_15m_before">15m Before Alert</string>
+    <string name="add_to_calendar_btn">Add Booking Opening Event to Calendar</string>
+    <string name="calendar_short">Calendar</string>
+
+    <string name="status_window_passed">Booking Window Passed</string>
+    <string name="status_opening_now">Opening right now!</string>
+    <string name="status_opens_in_days">Opens in %1$d days</string>
+    <string name="status_opens_in_day">Opens in %1$d day</string>
+    <string name="status_opens_in_hrs_mins">Opens in %1$d hrs %2$d min</string>
+    <string name="status_opens_in_mins">Opens in %1$d mins</string>
+
+    <string name="irctc_rules_tips_title">Official IRCTC Booking Rules &amp; Tips</string>
+    <string name="irctc_tip_1">• General Quota ARP: Advance Reservation Period opens 60 days before travel at exactly 8:00 AM IST.</string>
+    <string name="irctc_tip_2">• AC Tatkal Quota: Opens 1 day before journey date at 10:00 AM IST (1A, 2A, 3A, CC, EC, 3E).</string>
+    <string name="irctc_tip_3">• Sleeper (SL) Tatkal Quota: Opens 1 day before journey date at 11:00 AM IST (SL, 2S).</string>
+    <string name="irctc_tip_4">• Pro-tip: Log into your IRCTC Rail Connect App or website 5 minutes early, keep master list saved, and use UPI/e-Wallet for rapid checkout.</string>
+
+    <string name="exact_alarm_title">Exact Alarm Permission Needed</string>
+    <string name="exact_alarm_desc">To trigger reminders precisely at 15 minutes before the opening time, exact alarm permissions are required in system settings.</string>
+    <string name="open_settings_action">Open Settings</string>
+
+    <string name="reminder_cancelled">Reminder cancelled for %1$s</string>
+    <string name="exact_alarm_needed_msg">Exact Alarm permission required to set precise reminders.</string>
+</resources>

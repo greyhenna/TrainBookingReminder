@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ट्रेन बुकिंग रिमाइंड</string>
+    <string name="app_title">IRCTC बुकिंग रिमाइंडर</string>
+    <string name="app_subtitle">जनरल एआरपी (60 दिन) एवं तत्काल कैलकुलेटर</string>
+
+    <string name="app_language">ऐप भाषा</string>
+    <string name="app_theme">ऐप थीम</string>
+    <string name="theme_system">सिस्टम</string>
+    <string name="theme_light">लाइट</string>
+    <string name="theme_dark">डार्क</string>
+    <string name="select_preferred_language">अपनी पसंदीदा भाषा चुनें</string>
+
+    <string name="intended_journey_date">आपकी यात्रा की तारीख</string>
+    <string name="change_date">बदलें</string>
+    <string name="quick_select_label">त्वरित यात्रा तिथि चुनें:</string>
+    <string name="quick_tomorrow">कल</string>
+    <string name="quick_7_days">+7 दिन</string>
+    <string name="quick_30_days">+30 दिन</string>
+    <string name="quick_60_days">+60 दिन</string>
+    <string name="select_date_action">तारीख चुनें</string>
+    <string name="cancel_action">रद्द करें</string>
+
+    <string name="booking_windows_header">बुकिंग खुलने की तिथि एवं रिमाइंडर</string>
+    <string name="booking_opens_at">बुकिंग खुलने का समय</string>
+
+    <string name="quota_general_title">जनरल कोटा (60 दिन अग्रिम)</string>
+    <string name="quota_general_subtitle">अग्रिम आरक्षण अवधि (1AC, 2AC, 3AC, SL, CC आदि)</string>
+    <string name="quota_ac_tatkal_title">एसी तत्काल कोटा</string>
+    <string name="quota_ac_tatkal_subtitle">प्रीमियम/एसी श्रेणियां (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">गैर-एसी / स्लीपर तत्काल कोटा</string>
+    <string name="quota_sl_tatkal_subtitle">स्लीपर क्लास (SL) एवं सेकेंड सीटिंग (2S)</string>
+
+    <string name="reminder_set_15m">रिमाइंडर सेट है (-15 मिनट)</string>
+    <string name="alert_15m_before">15 मिनट पहले अलर्ट</string>
+    <string name="add_to_calendar_btn">बुकिंग इवेंट कैलेंडर में जोड़ें</string>
+    <string name="calendar_short">कैलेंडर</string>
+
+    <string name="status_window_passed">बुकिंग समय समाप्त</string>
+    <string name="status_opening_now">अभी खुल रहा है!</string>
+    <string name="status_opens_in_days">%1$d दिनों में खुलेगा</string>
+    <string name="status_opens_in_day">%1$d दिन में खुलेगा</string>
+    <string name="status_opens_in_hrs_mins">%1$d घंटे %2$d मिनट में खुलेगा</string>
+    <string name="status_opens_in_mins">%1$d मिनट में खुलेगा</string>
+
+    <string name="irctc_rules_tips_title">आधिकारिक IRCTC बुकिंग नियम एवं सुझाव</string>
+    <string name="irctc_tip_1">• जनरल कोटा ARP: अग्रिम आरक्षण यात्रा से ठीक 60 दिन पहले सुबह 8:00 बजे IST पर खुलता है।</string>
+    <string name="irctc_tip_2">• एसी तत्काल कोटा: यात्रा तिथि से 1 दिन पहले सुबह 10:00 बजे IST पर खुलता है (1A, 2A, 3A, CC, EC, 3E)।</string>
+    <string name="irctc_tip_3">• स्लीपर (SL) तत्काल कोटा: यात्रा तिथि से 1 दिन पहले सुबह 11:00 बजे IST पर खुलता है (SL, 2S)।</string>
+    <string name="irctc_tip_4">• सुझाव: IRCTC रेल कनेक्ट ऐप या वेबसाइट पर 5 मिनट पहले लॉगिन करें और UPI/e-Wallet से तुरंत भुगतान करें।</string>
+
+    <string name="exact_alarm_title">सटीक अलार्म अनुमति आवश्यक</string>
+    <string name="exact_alarm_desc">बुकिंग खुलने से 15 मिनट पहले सटीक रिमाइंडर प्राप्त करने के लिए अलार्म अनुमति दें।</string>
+    <string name="open_settings_action">सेटिंग्स खोलें</string>
+
+    <string name="reminder_cancelled">%1$s के लिए रिमाइंडर रद्द किया गया</string>
+    <string name="exact_alarm_needed_msg">सटीक रिमाइंडर सेट करने के लिए अलार्म अनुमति आवश्यक है।</string>
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ট্রেন বুকিং রিমাইন্ডার</string>
+    <string name="app_title">IRCTC বুকিং রিমাইন্ডার</string>
+    <string name="app_subtitle">সাধারণ এআরপি (৬০ দিন) ও তৎকাল ক্যালকুলেটর</string>
+
+    <string name="app_language">অ্যাপ ভাষা</string>
+    <string name="app_theme">অ্যাপ থিম</string>
+    <string name="theme_system">সিস্টেম</string>
+    <string name="theme_light">লাইট</string>
+    <string name="theme_dark">ডার্ক</string>
+    <string name="select_preferred_language">পছন্দের ভাষা বেছে নিন</string>
+
+    <string name="intended_journey_date">যাত্রার তারিখ</string>
+    <string name="change_date">পরিবর্তন</string>
+    <string name="quick_select_label">দ্রুত তারিখ নির্বাচন করুন:</string>
+    <string name="quick_tomorrow">আগামীকাল</string>
+    <string name="quick_7_days">+৭ দিন</string>
+    <string name="quick_30_days">+৩০ দিন</string>
+    <string name="quick_60_days">+৬০ দিন</string>
+    <string name="select_date_action">তারিখ নির্বাচন</string>
+    <string name="cancel_action">বাতিল</string>
+
+    <string name="booking_windows_header">বুকিং খোলার সময় ও রিমাইন্ডার</string>
+    <string name="booking_opens_at">বুকিং খোলার সময়</string>
+
+    <string name="quota_general_title">সাধারণ কোটা (৬০ দিন অগ্রিম)</string>
+    <string name="quota_general_subtitle">অগ্রিম রিজার্ভেশন সময়কাল (1AC, 2AC, 3AC, SL, CC ইত্যাদি)</string>
+    <string name="quota_ac_tatkal_title">এসি তৎকাল কোটা</string>
+    <string name="quota_ac_tatkal_subtitle">প্রিমিয়াম/এসি শ্রেণি (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">নন-এসি / স্লিপার তৎকাল কোটা</string>
+    <string name="quota_sl_tatkal_subtitle">স্লিপার ক্লাস (SL) ও সেকেন্ড সিটিং (2S)</string>
+
+    <string name="reminder_set_15m">রিমাইন্ডার সেট আছে (-১৫ মিনিট)</string>
+    <string name="alert_15m_before">১৫ মিনিট আগে অ্যালার্ট</string>
+    <string name="add_to_calendar_btn">ক্যালেন্ডারে বুকিং যুক্ত করুন</string>
+    <string name="calendar_short">ক্যালেন্ডার</string>
+
+    <string name="status_window_passed">বুকিং সময় শেষ</string>
+    <string name="status_opening_now">এখনই খুলছে!</string>
+    <string name="status_opens_in_days">%1$d দিনে খুলবে</string>
+    <string name="status_opens_in_day">%1$d দিনে খুলবে</string>
+    <string name="status_opens_in_hrs_mins">%1$d ঘণ্টা %2$d মিনিটে খুলবে</string>
+    <string name="status_opens_in_mins">%1$d মিনিটে খুলবে</string>
+
+    <string name="irctc_rules_tips_title">অফিসিয়াল IRCTC বুকিং নিয়মাবলি</string>
+    <string name="irctc_tip_1">• সাধারণ কোটা ARP: ভ্রমণের ঠিক ৬০ দিন আগে সকাল ৮:০০ টায় খোলে।</string>
+    <string name="irctc_tip_2">• এসি তৎকাল কোটা: ভ্রমণের ১ দিন আগে সকাল ১০:০০ টায় খোলে (1A, 2A, 3A, CC, EC, 3E)।</string>
+    <string name="irctc_tip_3">• স্লিপার (SL) তৎকাল কোটা: ভ্রমণের ১ দিন আগে সকাল ১১:০০ টায় খোলে (SL, 2S)।</string>
+    <string name="irctc_tip_4">• টিপস: IRCTC রেল কানেক্ট অ্যাপ বা ওয়েবসাইটে ৫ মিনিট আগে লগইন করুন এবং ইউপিআই ব্যবহার করুন।</string>
+
+    <string name="exact_alarm_title">সঠিক অ্যালার্ম অনুমতি আবশ্যক</string>
+    <string name="exact_alarm_desc">বুকিং খোলার ১৫ মিনিট আগে রিমাইন্ডার পেতে অ্যালার্মের অনুমতি দিন।</string>
+    <string name="open_settings_action">সেটিংসে যান</string>
+
+    <string name="reminder_cancelled">%1$s রিমাইন্ডার বাতিল করা হয়েছে</string>
+    <string name="exact_alarm_needed_msg">সঠিক রিমাইন্ডার সেট করার জন্য অ্যালার্ম অনুমতি প্রয়োজন।</string>
+</resources>

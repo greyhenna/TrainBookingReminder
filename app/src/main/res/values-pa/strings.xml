@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ਟ੍ਰੇਨ ਬੁਕਿੰਗ ਰਿਮਾਈਂਡਰ</string>
+    <string name="app_title">IRCTC ਬੁਕਿੰਗ ਰਿਮਾਈਂਡਰ</string>
+    <string name="app_subtitle">ਜਨਰਲ ARP (60 ਦਿਨ) ਅਤੇ ਤਤਕਾਲ ਕੈਲਕੁਲੇਟਰ</string>
+
+    <string name="app_language">ਐਪ ਭਾਸ਼ਾ</string>
+    <string name="app_theme">ਐਪ ਥੀਮ</string>
+    <string name="theme_system">ਸਿਸਟਮ</string>
+    <string name="theme_light">ਲਾਈਟ</string>
+    <string name="theme_dark">ਡਾਰਕ</string>
+    <string name="select_preferred_language">ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ</string>
+
+    <string name="intended_journey_date">ਯਾਤਰਾ ਦੀ ਮਿਤੀ</string>
+    <string name="change_date">ਬਦਲੋ</string>
+    <string name="quick_select_label">ਤੁਰੰਤ ਯਾਤਰਾ ਮਿਤੀ ਚੋਣ:</string>
+    <string name="quick_tomorrow">ਕੱਲ੍ਹ</string>
+    <string name="quick_7_days">+7 ਦਿਨ</string>
+    <string name="quick_30_days">+30 ਦਿਨ</string>
+    <string name="quick_60_days">+60 ਦਿਨ</string>
+    <string name="select_date_action">ਮਿਤੀ ਚੁਣੋ</string>
+    <string name="cancel_action">ਰੱਦ ਕਰੋ</string>
+
+    <string name="booking_windows_header">ਬੁਕਿੰਗ ਖੁੱਲ੍ਹਣ ਦਾ ਸਮਾਂ ਅਤੇ ਰਿਮਾਈਂਡਰ</string>
+    <string name="booking_opens_at">ਬੁਕਿੰਗ ਖੁੱਲ੍ਹਣ ਦਾ ਸਮਾਂ</string>
+
+    <string name="quota_general_title">ਜਨਰਲ ਕੋਟਾ (60 ਦਿਨ ਪਹਿਲਾਂ)</string>
+    <string name="quota_general_subtitle">ਅਡਵਾਂਸ ਰਿਜ਼ਰਵੇਸ਼ਨ ਸਮਾਂ (1AC, 2AC, 3AC, SL, CC ਆਦਿ)</string>
+    <string name="quota_ac_tatkal_title">AC ਤਤਕਾਲ ਕੋਟਾ</string>
+    <string name="quota_ac_tatkal_subtitle">ਪ੍ਰੀਮੀਅਮ/AC ਸ਼੍ਰੇਣੀਆਂ (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">ਨਾਨ-AC / ਸਲੀਪਰ ਤਤਕਾਲ ਕੋਟਾ</string>
+    <string name="quota_sl_tatkal_subtitle">ਸਲੀਪਰ ਕਲਾਸ (SL) ਅਤੇ ਸੈਕਿੰਡ ਸੀਟਿੰਗ (2S)</string>
+
+    <string name="reminder_set_15m">ਰਿਮਾਈਂਡਰ ਸੈੱਟ ਹੈ (-15 ਮਿੰਟ)</string>
+    <string name="alert_15m_before">15 ਮਿੰਟ ਪਹਿਲਾਂ ਅਲਰਟ</string>
+    <string name="add_to_calendar_btn">ਕੈਲੰਡਰ ਵਿੱਚ ਬੁਕਿੰਗ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="calendar_short">ਕੈਲੰਡਰ</string>
+
+    <string name="status_window_passed">ਬੁਕਿੰਗ ਸਮਾਂ ਸਮਾਪਤ</string>
+    <string name="status_opening_now">ਹੁਣੇ ਖੁੱਲ੍ਹ ਰਿਹਾ ਹੈ!</string>
+    <string name="status_opens_in_days">%1$d ਦਿਨਾਂ ਵਿੱਚ ਖੁੱਲ੍ਹੇਗਾ</string>
+    <string name="status_opens_in_day">%1$d ਦਿਨ ਵਿੱਚ ਖੁੱਲ੍ਹੇਗਾ</string>
+    <string name="status_opens_in_hrs_mins">%1$d ਘੰਟੇ %2$d ਮਿੰਟ ਵਿੱਚ ਖੁੱਲ੍ਹੇਗਾ</string>
+    <string name="status_opens_in_mins">%1$d ਮਿੰਟ ਵਿੱਚ ਖੁੱਲ੍ਹੇਗਾ</string>
+
+    <string name="irctc_rules_tips_title">ਅਧਿਕਾਰਤ IRCTC ਬੁਕਿੰਗ ਨਿਯਮ ਅਤੇ ਸੁਝਾਅ</string>
+    <string name="irctc_tip_1">• ਜਨਰਲ ਕੋਟਾ ARP: ਯਾਤਰਾ ਤੋਂ 60 ਦਿਨ ਪਹਿਲਾਂ ਸਵੇਰੇ 8:00 ਵਜੇ IST ਤੇ ਖੁੱਲ੍ਹਦਾ ਹੈ।</string>
+    <string name="irctc_tip_2">• AC ਤਤਕਾਲ ਕੋਟਾ: ਯਾਤਰਾ ਤੋਂ 1 ਦਿਨ ਪਹਿਲਾਂ ਸਵੇਰੇ 10:00 ਵਜੇ IST ਤੇ ਖੁੱਲ੍ਹਦਾ ਹੈ।</string>
+    <string name="irctc_tip_3">• ਸਲੀਪਰ (SL) ਤਤਕਾਲ ਕੋਟਾ: ਯਾਤਰਾ ਤੋਂ 1 ਦਿਨ ਪਹਿਲਾਂ ਸਵੇਰੇ 11:00 ਵਜੇ IST ਤੇ ਖੁੱਲ੍ਹਦਾ ਹੈ।</string>
+    <string name="irctc_tip_4">• ਸੁਝਾਅ: IRCTC ਐਪ ਵਿੱਚ 5 ਮਿੰਟ ਪਹਿਲਾਂ ਲੌਗਇਨ ਕਰੋ ਅਤੇ UPI ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
+
+    <string name="exact_alarm_title">ਅਲਾਰਮ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="exact_alarm_desc">15 ਮਿੰਟ ਪਹਿਲਾਂ ਰਿਮਾਈਂਡਰ ਲਈ ਅਲਾਰਮ ਇਜਾਜ਼ਤ ਦਿਓ।</string>
+    <string name="open_settings_action">ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ</string>
+
+    <string name="reminder_cancelled">%1$s ਲਈ ਰਿਮਾਈਂਡਰ ਰੱਦ ਕੀਤਾ ਗਿਆ</string>
+    <string name="exact_alarm_needed_msg">ਸਹੀ ਰਿਮਾਈਂਡਰ ਲਈ ਅਲਾਰਮ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ।</string>
+</resources>

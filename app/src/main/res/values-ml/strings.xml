@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ട്രെയിൻ ബുക്കിംഗ് റിമൈൻഡർ</string>
+    <string name="app_title">IRCTC ബുക്കിംഗ് റിമൈൻഡർ</string>
+    <string name="app_subtitle">ജനറൽ എആർപി (60 ദിവസം) &amp; തത്കാൽ കാൽക്കുലേറ്റർ</string>
+
+    <string name="app_language">ആപ്പ് ഭാഷ</string>
+    <string name="app_theme">ആപ്പ് തീം</string>
+    <string name="theme_system">സിസ്റ്റം</string>
+    <string name="theme_light">ലൈറ്റ്</string>
+    <string name="theme_dark">ഡാർക്ക്</string>
+    <string name="select_preferred_language">നിങ്ങളുടെ ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+
+    <string name="intended_journey_date">യാത്രാ തീയതി</string>
+    <string name="change_date">മാറ്റുക</string>
+    <string name="quick_select_label">യാത്രാ തീയതി വേഗത്തിൽ തിരഞ്ഞെടുക്കുക:</string>
+    <string name="quick_tomorrow">നാളെ</string>
+    <string name="quick_7_days">+7 ദിവസം</string>
+    <string name="quick_30_days">+30 ദിവസം</string>
+    <string name="quick_60_days">+60 ദിവസം</string>
+    <string name="select_date_action">തീയതി തിരഞ്ഞെടുക്കുക</string>
+    <string name="cancel_action">റദ്ദാക്കുക</string>
+
+    <string name="booking_windows_header">ബുക്കിംഗ് ആരംഭിക്കുന്ന സമയവും റിമൈൻഡറും</string>
+    <string name="booking_opens_at">ബുക്കിംഗ് ആരംഭിക്കുന്ന സമയം</string>
+
+    <string name="quota_general_title">ജനറൽ കോട്ട (60 ദിവസം മുൻകൂട്ടി)</string>
+    <string name="quota_general_subtitle">മുൻകൂട്ടിയുള്ള റിസർവേഷൻ സമയം (1AC, 2AC, 3AC, SL, CC മുതലായവ)</string>
+    <string name="quota_ac_tatkal_title">എസി തത്കാൽ കോട്ട</string>
+    <string name="quota_ac_tatkal_subtitle">പ്രീമിയം/എസി ക്ലാസുകൾ (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">നോൺ-എസി / സ്ലീപ്പർ തത്കാൽ കോട്ട</string>
+    <string name="quota_sl_tatkal_subtitle">സ്ലീപ്പർ ക്ലാസ് (SL) &amp; സെക്കൻഡ് സിറ്റിംഗ് (2S)</string>
+
+    <string name="reminder_set_15m">റിമൈൻഡർ സെറ്റ് ചെയ്തു (-15 മിനിറ്റ്)</string>
+    <string name="alert_15m_before">15 മിനിറ്റ് മുമ്പ് അലേർട്ട്</string>
+    <string name="add_to_calendar_btn">കലണ്ടറിലേക്ക് ബുക്കിംഗ് ചേർക്കുക</string>
+    <string name="calendar_short">കലണ്ടർ</string>
+
+    <string name="status_window_passed">ബുക്കിംഗ് സമയം അവസാനിച്ചു</string>
+    <string name="status_opening_now">ഇപ്പോൾ ആരംഭിക്കുന്നു!</string>
+    <string name="status_opens_in_days">%1$d ദിവസത്തിനുള്ളിൽ ആരംഭിക്കും</string>
+    <string name="status_opens_in_day">%1$d ദിവസത്തിൽ ആരംഭിക്കും</string>
+    <string name="status_opens_in_hrs_mins">%1$d മണിക്കൂർ %2$d മിനിറ്റിനുള്ളിൽ ആരംഭിക്കും</string>
+    <string name="status_opens_in_mins">%1$d മിനിറ്റിനുള്ളിൽ ആരംഭിക്കും</string>
+
+    <string name="irctc_rules_tips_title">ഔദ്യോഗിക IRCTC ബുക്കിംഗ് നിയമങ്ങൾ</string>
+    <string name="irctc_tip_1">• ജനറൽ കോട്ട ARP: യാത്രയ്ക്ക് 60 ദിവസം മുമ്പ് രാവിലെ 8:00 IST-ന് ആരംഭിക്കുന്നു.</string>
+    <string name="irctc_tip_2">• എസി തത്കാൽ കോട്ട: യാത്രയ്ക്ക് 1 ദിവസം മുമ്പ് രാവിലെ 10:00 IST-ന് ആരംഭിക്കുന്നു.</string>
+    <string name="irctc_tip_3">• സ്ലീപ്പർ (SL) തത്കാൽ കോട്ട: യാത്രയ്ക്ക് 1 ദിവസം മുമ്പ് രാവിലെ 11:00 IST-ന് ആരംഭിക്കുന്നു.</string>
+    <string name="irctc_tip_4">• നിർദ്ദേശം: IRCTC ആപ്പിൽ 5 മിനിറ്റ് മുമ്പ് ലോഗിൻ ചെയ്യുക, UPI വഴി വേഗത്തിൽ പണമടയ്ക്കുക.</string>
+
+    <string name="exact_alarm_title">അലാറം അനുമതി ആവശ്യമാണ്</string>
+    <string name="exact_alarm_desc">കൃത്യമായി 15 മിനിറ്റ് മുമ്പ് റിമൈൻഡറിനായി അലാറം അനുമതി നൽകുക.</string>
+    <string name="open_settings_action">സെറ്റിംഗ്സ് തുറക്കുക</string>
+
+    <string name="reminder_cancelled">%1$s റിമൈൻഡർ റദ്ദാക്കി</string>
+    <string name="exact_alarm_needed_msg">കൃത്യമായ റിമൈൻഡറുകൾക്ക് അലാറം അനുമതി ആവശ്യമാണ്.</string>
+</resources>

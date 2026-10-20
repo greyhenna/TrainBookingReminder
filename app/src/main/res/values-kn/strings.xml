@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ರೈಲು ಬುಕಿಂಗ್ ಜ್ಞಾಪನೆ</string>
+    <string name="app_title">IRCTC ಬುಕಿಂಗ್ ಜ್ಞಾಪನೆ</string>
+    <string name="app_subtitle">ಜನರಲ್ ARP (60 ದಿನಗಳು) &amp; ತತ್ಕಾಲ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್</string>
+
+    <string name="app_language">ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆ</string>
+    <string name="app_theme">ಅಪ್ಲಿಕೇಶನ್ ಥೀಮ್</string>
+    <string name="theme_system">ಸಿಸ್ಟಮ್</string>
+    <string name="theme_light">ಲೈಟ್</string>
+    <string name="theme_dark">ಡಾರ್ಕ್</string>
+    <string name="select_preferred_language">ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+
+    <string name="intended_journey_date">ಪ್ರಯಾಣದ ದಿನಾಂಕ</string>
+    <string name="change_date">ಬದಲಾಯಿಸಿ</string>
+    <string name="quick_select_label">ತ್ವರಿತ ಪ್ರಯಾಣ ದಿನಾಂಕ ಆಯ್ಕೆ:</string>
+    <string name="quick_tomorrow">ನಾಳೆ</string>
+    <string name="quick_7_days">+7 ದಿನಗಳು</string>
+    <string name="quick_30_days">+30 ದಿನಗಳು</string>
+    <string name="quick_60_days">+60 ದಿನಗಳು</string>
+    <string name="select_date_action">ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="cancel_action">ರದ್ದುಮಾಡಿ</string>
+
+    <string name="booking_windows_header">ಬುಕಿಂಗ್ ಪ್ರಾರಂಭದ ಸಮಯ &amp; ಜ್ಞಾಪನೆಗಳು</string>
+    <string name="booking_opens_at">ಬುಕಿಂಗ್ ಪ್ರಾರಂಭದ ಸಮಯ</string>
+
+    <string name="quota_general_title">ಜನರಲ್ ಕೋಟಾ (60 ದಿನಗಳ ARP)</string>
+    <string name="quota_general_subtitle">ಮುಂಗಡ ಕಾಯ್ದಿರಿಸುವಿಕೆ ಅವಧಿ (1AC, 2AC, 3AC, SL, CC ಇತ್ಯಾದಿ)</string>
+    <string name="quota_ac_tatkal_title">AC ತತ್ಕಾಲ್ ಕೋಟಾ</string>
+    <string name="quota_ac_tatkal_subtitle">ಪ್ರೀಮಿಯಂ/AC ತರಗತಿಗಳು (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">ನಾನ್-AC / ಸ್ಲೀಪರ್ ತತ್ಕಾಲ್ ಕೋಟಾ</string>
+    <string name="quota_sl_tatkal_subtitle">ಸ್ಲೀಪರ್ ಕ್ಲಾಸ್ (SL) &amp; ಸೆಕೆಂಡ್ ಸಿಟ್ಟಿಂಗ್ (2S)</string>
+
+    <string name="reminder_set_15m">ಜ್ಞಾಪನೆ ಹೊಂದಿಸಲಾಗಿದೆ (-15 ನಿಮಿಷ)</string>
+    <string name="alert_15m_before">15 ನಿಮಿಷಗಳ ಮೊದಲು ಎಚ್ಚರಿಕೆ</string>
+    <string name="add_to_calendar_btn">ಕ್ಯಾಲೆಂಡರ್‌ಗೆ ಬುಕಿಂಗ್ ಸೇರಿಸಿ</string>
+    <string name="calendar_short">ಕ್ಯಾಲೆಂಡರ್</string>
+
+    <string name="status_window_passed">ಬುಕಿಂಗ್ ಸಮಯ ಮುಗಿದಿದೆ</string>
+    <string name="status_opening_now">ಈಗಷ್ಟೇ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ!</string>
+    <string name="status_opens_in_days">%1$d ದಿನಗಳಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ</string>
+    <string name="status_opens_in_day">%1$d ದಿನದಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ</string>
+    <string name="status_opens_in_hrs_mins">%1$d ಗಂಟೆ %2$d ನಿಮಿಷಗಳಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ</string>
+    <string name="status_opens_in_mins">%1$d ನಿಮಿಷಗಳಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ</string>
+
+    <string name="irctc_rules_tips_title">ಅಧಿಕೃತ IRCTC ಬುಕಿಂಗ್ ನಿಯಮಗಳು &amp; ಸಲಹೆಗಳು</string>
+    <string name="irctc_tip_1">• ಜನರಲ್ ಕೋಟಾ ARP: ಪ್ರಯಾಣದ 60 ದಿನಗಳ ಮೊದಲು ಬೆಳಿಗ್ಗೆ 8:00 IST ಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.</string>
+    <string name="irctc_tip_2">• AC ತತ್ಕಾಲ್ ಕೋಟಾ: ಪ್ರಯಾಣದ 1 ದಿನ ಮೊದಲು ಬೆಳಿಗ್ಗೆ 10:00 IST ಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.</string>
+    <string name="irctc_tip_3">• ಸ್ಲೀಪರ್ (SL) ತತ್ಕಾಲ್ ಕೋಟಾ: ಪ್ರಯಾಣದ 1 ದಿನ ಮೊದಲು ಬೆಳಿಗ್ಗೆ 11:00 IST ಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.</string>
+    <string name="irctc_tip_4">• ಸಲಹೆ: IRCTC యాಪ್‌ನಲ್ಲಿ 5 ನಿಮಿಷ ಮುಂಚಿತವಾಗಿ ಲಾಗಿನ್ ಮಾಡಿ ಮತ್ತು UPI ಬಳಸಿ.</string>
+
+    <string name="exact_alarm_title">ನಿಖರವಾದ ಅಲಾರಾಂ ಅನುಮತಿ ಅಗತ್ಯವಿದೆ</string>
+    <string name="exact_alarm_desc">ಸರಿಯಾಗಿ 15 ನಿಮಿಷಗಳ ಮೊದಲು ಜ್ಞಾಪನೆಗಾಗಿ ಅಲಾರಾಂ ಅನುಮತಿಯನ್ನು ನೀಡಿ.</string>
+    <string name="open_settings_action">ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+
+    <string name="reminder_cancelled">%1$s ಗಾಗಿ ಜ್ಞಾಪನೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="exact_alarm_needed_msg">ನಿಖರವಾದ ಜ್ಞಾಪನೆಗಾಗಿ ಅಲಾರಾಂ ಅನುಮತಿ ಅಗತ್ಯವಿದೆ.</string>
+</resources>

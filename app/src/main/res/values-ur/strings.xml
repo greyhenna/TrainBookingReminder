@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ٹرین بکنگ ریمائنڈر</string>
+    <string name="app_title">IRCTC بکنگ ریمائنڈر</string>
+    <string name="app_subtitle">جنرل ARP (60 دن) اور تتکال کیلکولیٹر</string>
+
+    <string name="app_language">ایپ کی زبان</string>
+    <string name="app_theme">ایپ تھیم</string>
+    <string name="theme_system">سسٹم</string>
+    <string name="theme_light">لائٹ</string>
+    <string name="theme_dark">ڈارک</string>
+    <string name="select_preferred_language">اپنی پسندیدہ زبان منتخب کریں</string>
+
+    <string name="intended_journey_date">سفر کی تاریخ</string>
+    <string name="change_date">تبدیل کریں</string>
+    <string name="quick_select_label">فوری تاریخ کا انتخاب:</string>
+    <string name="quick_tomorrow">کل</string>
+    <string name="quick_7_days">+7 دن</string>
+    <string name="quick_30_days">+30 دن</string>
+    <string name="quick_60_days">+60 دن</string>
+    <string name="select_date_action">تاریخ منتخب کریں</string>
+    <string name="cancel_action">منسوخ کریں</string>
+
+    <string name="booking_windows_header">بکنگ کے اوقات اور ریمائنڈرز</string>
+    <string name="booking_opens_at">بکنگ کھلنے کا وقت</string>
+
+    <string name="quota_general_title">جنرل کوٹہ (60 دن قبل)</string>
+    <string name="quota_general_subtitle">ایڈوانس ریزرویشن کی مدت (1AC, 2AC, 3AC, SL, CC وغیرہ)</string>
+    <string name="quota_ac_tatkal_title">AC تتکال کوٹہ</string>
+    <string name="quota_ac_tatkal_subtitle">پریمیئم/AC کلاسز (1A, 2A, 3A, 3E, CC, EC)</string>
+    <string name="quota_sl_tatkal_title">نان-AC / سلیپر تتکال کوٹہ</string>
+    <string name="quota_sl_tatkal_subtitle">سلیپر کلاس (SL) اور سیکنڈ سیٹنگ (2S)</string>
+
+    <string name="reminder_set_15m">ریمائنڈر فعال ہے (-15 منٹ)</string>
+    <string name="alert_15m_before">15 منٹ قبل الرٹ</string>
+    <string name="add_to_calendar_btn">کیلنڈر میں بکنگ شامل کریں</string>
+    <string name="calendar_short">کیلنڈر</string>
+
+    <string name="status_window_passed">بکنگ کا وقت ختم ہو گیا</string>
+    <string name="status_opening_now">ابھی کھل رہا ہے!</string>
+    <string name="status_opens_in_days">%1$d دنوں میں کھلے گا</string>
+    <string name="status_opens_in_day">%1$d دن میں کھلے گا</string>
+    <string name="status_opens_in_hrs_mins">%1$d گھنٹے %2$d منٹ میں کھلے گا</string>
+    <string name="status_opens_in_mins">%1$d منٹ میں کھلے گا</string>
+
+    <string name="irctc_rules_tips_title">سرکاری IRCTC بکنگ قواعد اور تجاویز</string>
+    <string name="irctc_tip_1">• جنرل کوٹہ ARP: سفر سے 60 دن قبل صبح 8:00 بجے IST پر کھلتا ہے۔</string>
+    <string name="irctc_tip_2">• AC تتکال کوٹہ: سفر سے 1 دن قبل صبح 10:00 بجے IST پر کھلتا ہے۔</string>
+    <string name="irctc_tip_3">• سلیپر (SL) تتکال کوٹہ: سفر سے 1 دن قبل صبح 11:00 بجے IST پر کھلتا ہے۔</string>
+    <string name="irctc_tip_4">• تجویز: IRCTC ایپ میں 5 منٹ قبل لاگ ان کریں اور فوری ادائیگی کے لیے UPI استعمال کریں۔</string>
+
+    <string name="exact_alarm_title">الارم کی اجازت درکار ہے</string>
+    <string name="exact_alarm_desc">15 منٹ قبل ریمائنڈر کے لیے الارم کی اجازت دیں۔</string>
+    <string name="open_settings_action">سیٹنگز کھولیں</string>
+
+    <string name="reminder_cancelled">%1$s کے لیے ریمائنڈر منسوخ کر دیا گیا</string>
+    <string name="exact_alarm_needed_msg">درست ریمائنڈر کے لیے الارم کی اجازت درکار ہے۔</string>
+</resources>
