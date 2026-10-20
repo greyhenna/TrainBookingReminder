@@ -10,6 +10,18 @@ A utility Android application designed for **Indian Railways (IRCTC)** passenger
 
 ---
 
+## 📱 Application Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot_main.png" width="30%" alt="Main Screen (Multilingual)" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/screenshot_language_sheet.png" width="30%" alt="Language Selection Bottom Sheet" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/screenshot_dark_mode.png" width="30%" alt="Dark Mode Theme" />
+</p>
+
+---
+
 ## 📅 Core IRCTC Booking Rules (IST Time Zone)
 
 The app standardizes all calculations against **Indian Standard Time (IST - UTC+05:30)**:
@@ -92,6 +104,10 @@ TrainBookingReminder/
 │   │   │   └── xml/               # locales_config.xml
 │   │   └── AndroidManifest.xml
 │   └── build.gradle.kts
+├── screenshots/                   # Application Screenshots
+│   ├── screenshot_main.png
+│   ├── screenshot_language_sheet.png
+│   └── screenshot_dark_mode.png
 ├── build.gradle.kts
 └── settings.gradle.kts
 ```
