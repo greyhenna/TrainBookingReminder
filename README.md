@@ -13,11 +13,13 @@ A utility Android application designed for **Indian Railways (IRCTC)** passenger
 ## 📱 Application Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot_main.png" width="30%" alt="Main Screen (Multilingual)" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/screenshot_language_sheet.png" width="30%" alt="Language Selection Bottom Sheet" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/screenshot_dark_mode.png" width="30%" alt="Dark Mode Theme" />
+  <img src="screenshots/screenshot_main_en.png" width="23%" alt="Main Screen (English Light)" />
+  &nbsp;
+  <img src="screenshots/screenshot_dark_en.png" width="23%" alt="Main Screen (English Dark)" />
+  &nbsp;
+  <img src="screenshots/screenshot_language_sheet.png" width="23%" alt="Language Selection Sheet" />
+  &nbsp;
+  <img src="screenshots/screenshot_main.png" width="23%" alt="Localized Screen (Indian Languages)" />
 </p>
 
 ---
@@ -105,9 +107,10 @@ TrainBookingReminder/
 │   │   └── AndroidManifest.xml
 │   └── build.gradle.kts
 ├── screenshots/                   # Application Screenshots
-│   ├── screenshot_main.png
-│   ├── screenshot_language_sheet.png
-│   └── screenshot_dark_mode.png
+│   ├── screenshot_main_en.png     # English Light Mode
+│   ├── screenshot_dark_en.png     # English Dark Mode
+│   ├── screenshot_language_sheet.png # Multilingual Bottom Sheet
+│   └── screenshot_main.png        # Localized Indian Languages
 ├── build.gradle.kts
 └── settings.gradle.kts
 ```
